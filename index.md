@@ -58,7 +58,7 @@ Final grade cutoff:
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
 | 2  | 01/11/23 | Intro to Lab Environments    |                          |
-| 3  | 01/16/23 | Security Basics              | Lab 1 Due                |
+| 3  | 01/16/23 | Security Problems            | Lab 1 Due                |
 | 4  | 01/18/23 | Security Principles          |                          |
 | 5  | 01/23/23 | Web Security                 | Lab 2 Due                |
 | 6  | 01/25/23 | Software Security            |                          |
@@ -74,7 +74,7 @@ Final grade cutoff:
 | 16 | 02/29/23 | Pub Key Cryptography 2       |                          |
 | -  | 03/05/23 | SPRING BREAK                 |                          |
 | -  | 03/07/23 | SPRING BREAK                 |                          |
-| 17 | 03/12/23 | Pub Key Infra 1              |                          |
+| 17 | 03/12/23 | Pub Key Infra 1              | Final Project Checkpoint |
 | 18 | 03/14/23 | Pub Key Infra 2              |                          |
 | 19 | 03/19/23 | Hash & Exam 2 Review         | Lab 6 Due                |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
@@ -95,7 +95,7 @@ Final grade cutoff:
 The instructor reserves the right to make any changes.
  
  
-## Attendence
+## Attendance
 - There is not a traditional "attendance". We will have occasional in-class quiz to check attendance. The intent for this is to assess your knowledge of the material and hold you accountable for attending.
 
 ## Group Project
