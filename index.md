@@ -36,8 +36,8 @@ SRA 221 focuses on providing an understanding of the overview of information sec
  
 Grades will be computed based on the following factors:
 
-- Assignments      20%
-- Labs             30%
+- Labs             25%
+- Lab Assessment   25%
 - Exams            30%
 - Group Project    10% 
 - Quiz             10% 
