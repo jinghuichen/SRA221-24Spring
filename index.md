@@ -11,8 +11,8 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 
 ## Logistics
 
-- Time: **Tuesday/Thursday 4:35PM - 4:50PM**
-- Location: **Westgate Bldg E203**  
+- Time: **Tuesday/Thursday 01:35 - 02:50PM**
+- Location: **Willard Bldg 358**  
 - Course Website: [https://jinghuichen.github.io/SRA221-24Spring/](https://jinghuichen.github.io/SRA221-24Spring/)
 - Canvas: [https://psu.instructure.com/courses/2312039](https://psu.instructure.com/courses/2312039)
 
@@ -27,8 +27,10 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 ## Course Materials
 - Recommended (not required): 
     - Mark Stamp: Information Security: Principles and Practice, Third Edition  
-    - Charles Pfleeger, Shari Pfleeger, Jonathan Margulies : Security in Computing, Fifth Edition. 
-- Required: Lab Access  -  Purchasing a Practice Labs Voucher is required for the lab components of the course. The voucher is purchased online from the PSU bookstore and is listed under the course just like a book would be. The following link provides help on how to get your voucher code https://www.up.ist.psu.edu/vhol/pl-voucher.php (https://www.up.ist.psu.edu/vhol/pl-voucher.php)
+    - Charles Pfleeger, Shari Pfleeger, Jonathan Margulies : Security in Computing, Fifth Edition.
+
+- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class.  Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $81.25 for all labs used in the course. 
+
 
 ## Grading Policy
  
@@ -91,24 +93,24 @@ Final grade cutoff:
 | -  | 05/01/23 |                                   | Final Project Report Due    |
 
 
-The instructor reserves the rights to make any changes.
+The instructor reserves the right to make any changes.
  
  
 ## Attendence
-- There is not a traditional "attendance". We will have occational in-class quiz for checking attendance. The intent for this to assess your knowledge of the material and hold you accountable for attending.
+- There is not a traditional "attendance". We will have occasional in-class quiz to check attendance. The intent for this is to assess your knowledge of the material and hold you accountable for attending.
 
-## Final Project
-- Everyone in this class is expected to explore some special topics in information security beyond the content of this class (or extension of what is covered in class).
-- It is expected to be done by individuals. 
+## Group Project
+- Everyone in this class is expected to explore some special topics in information security beyond the content of this class (or an extension of what is covered in class).
+- It is expected to be done by 2-3 people groups (no larger than 3). 
 - The topic of the project can be:
-   - A cool demo of applying information security in real world application.
-   - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowlodge proof etc.)
+   - A cool demo of applying information security in real world applications.
+   - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowlodge proof, LLM security etc.)
    - An interesting project demonstrates the importance of protecting information security.
 
 ## Late Submission Policy
 - All assignments are due on the due date at 11:59 pm (EST).
-- Students can submit late with the penalty of 25% deduction for every 24 hours late (up to 3 days).
-- After 3 days, no more late submission is allowed.
+- Students can submit late with the penalty of 10% deduction for every 24 hours late (up to 4 days).
+- After 4 days, no more late submission is allowed.
 - Extensions can be granted for special cases (email the instructor)
 
 
