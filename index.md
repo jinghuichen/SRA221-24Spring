@@ -58,12 +58,12 @@ Final grade cutoff:
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
 | 2  | 01/11/23 | Intro to Lab Environments    |                          |
-| 3  | 01/16/23 | Security Principles          | Lab 1 Due                |
-| 4  | 01/18/23 | Web Security                 |                          |
-| 5  | 01/23/23 | Software Security            | Lab 2 Due                |
-| 6  | 01/25/23 | Attack Types 1               |                          |
-| 7  | 01/30/23 | Attack Types 2               | Lab 3 Due                |
-| 8  | 02/01/23 | Lab Review                   |                          |
+| 3  | 01/16/23 | Security Basics              | Lab 1 Due                |
+| 4  | 01/18/23 | Security Principles          |                          |
+| 5  | 01/23/23 | Web Security                 | Lab 2 Due                |
+| 6  | 01/25/23 | Software Security            |                          |
+| 7  | 01/30/23 | Attack Types 1               | Lab 3 Due                |
+| 8  | 02/01/23 | Attack Types 2               |                          |
 | 9  | 02/06/23 | Exam 1 Review                |                          |
 | 10 | 02/08/23 | Exam 1 (in-class)            |                          |
 | 11 | 02/13/23 | Cryptography Basics 1        | Lab 4 Due                |
