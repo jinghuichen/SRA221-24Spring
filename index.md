@@ -36,10 +36,10 @@ SRA 221 focuses on providing an understanding of the overview of information sec
  
 Grades will be computed based on the following factors:
 
-- Assignments      25%
-- Labs             25%
-- Midterm          30%
-- Final Project    10% 
+- Assignments      20%
+- Labs             30%
+- Exams            30%
+- Group Project    10% 
 - Quiz             10% 
 
 Final grade cutoff:
@@ -58,8 +58,8 @@ Final grade cutoff:
 
 | #  | Date     | Topics                            | Due Dates                   |
 |----|----------|-----------------------------------|-----------------------------|
-| 1  | 01/10/23 | Course Introduction               |                             |
-| 2  | 01/12/23 | Security Principles               |                             |
+| 1  | 01/09/23 | Course Introduction               |                             |
+| 2  | 01/11/23 | Security Principles               |                             |
 | 3  | 01/17/23 | Cryptography Basics 1             |                             |
 | 4  | 01/19/23 | Cryptography Basics 2             |                             |
 | 5  | 01/24/23 | Symmetric Cryptography 1          | Assignment 1 Due            |
