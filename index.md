@@ -54,6 +54,7 @@ Final grade cutoff:
 
 
 ## Schedule
+
 | #  | Date     | Topics                       | Due Dates                |
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
