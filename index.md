@@ -36,8 +36,9 @@ SRA 221 focuses on providing an understanding of the overview of information sec
  
 Grades will be computed based on the following factors:
 
-- Labs & Assessments   40%
-- Exams                30%
+- Labs                 25%
+- Homework             25%
+- Exams                20%
 - Group Project        20% 
 - Quiz                 10% 
 
@@ -58,9 +59,9 @@ Final grade cutoff:
 | #  | Date     | Topics                       | Due Dates                |
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
-| 2  | 01/11/23 | Intro to Lab Environments    |                          |
-| 3  | 01/16/23 | Security Problems            | Lab 1 Due                |
-| 4  | 01/18/23 | Security Principles          |                          |
+| 2  | 01/11/23 | Security Problems            |                          |
+| 3  | 01/16/23 | Intro to Lab Environments    |                          |
+| 4  | 01/18/23 | Security Principles          | Lab 1 & Assessment Due   |
 | 5  | 01/23/23 | Web Security                 | Lab 2 Due                |
 | 6  | 01/25/23 | Software Security            |                          |
 | 7  | 01/30/23 | Attack Types 1               | Lab 3 Due                |
