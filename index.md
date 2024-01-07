@@ -61,34 +61,34 @@ Final grade cutoff:
 | #  | Date     | Topics                       | Due Dates                |
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
-| 2  | 01/11/23 | Intro to Lab Environments    |                          |
-| 3  | 01/16/23 | Security Problems            | Lab 1 & Assessment Due   |
-| 4  | 01/18/23 | Security Principles          |                          |
+| 2  | 01/11/23 | Security Problems            |                          |
+| 3  | 01/16/23 | Intro to Lab Environments    |                          |
+| 4  | 01/18/23 | Security Principles          | Lab 1 & Assessment Due   |
 | 5  | 01/23/23 | Web Security                 |                          |
-| 6  | 01/25/23 | Software Security            |                          |
-| 7  | 01/30/23 | Attack Types 1               | Lab 2 & Assessment Due   |
-| 8  | 02/01/23 | Attack Types 2               |                          |
-| 9  | 02/06/23 | Exam 1 Review                | Lab 3 & Assessment Due   |
+| 6  | 01/25/23 | Software Security            | Lab 2 & Assessment Due   |
+| 7  | 01/30/23 | Attack Types 1               |                          |
+| 8  | 02/01/23 | Attack Types 2               | Lab 3 & Assessment Due   |
+| 9  | 02/06/23 | Exam 1 Review                |                          |
 | 10 | 02/08/23 | Exam 1 (in-class)            |                          |
 | 11 | 02/13/23 | Cryptography Basics 1        | Lab 4 & Assessment Due   |
 | 12 | 02/15/23 | Cryptography Basics 2        |                          |
 | 13 | 02/20/23 | Symmetric Cryptography 1     |                          |
 | 14 | 02/22/23 | Symmetric Cryptography 2     | HW 1 Due                 |
 | 15 | 02/27/23 | Pub Key Cryptography 1       |                          |
-| 16 | 02/29/23 | Pub Key Cryptography 2       | HW 2 Due                 |
+| 16 | 02/29/23 | Pub Key Cryptography 2       |                          |
 | -  | 03/05/23 | SPRING BREAK                 |                          |
 | -  | 03/07/23 | SPRING BREAK                 |                          |
-| 17 | 03/12/23 | Pub Key Infra 1              | Final Project Proposal   |
+| 17 | 03/12/23 | Pub Key Infra 1              | HW 2 Due                 |
 | 18 | 03/14/23 | Pub Key Infra 2              |                          |
-| 19 | 03/19/23 | Hash & Exam 2 Review         | Lab 5 & Assessment Due   |
+| 19 | 03/19/23 | Hash & Exam 2 Review         | Final Project Proposal   |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
-| 21 | 03/26/23 | Network Security             |                          |
-| 22 | 03/28/23 | Access Control 1             | Lab 6 & Assessment Due   |
-| 23 | 04/02/23 | Access Control 2             |                          |
+| 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
+| 22 | 03/28/23 | Access Control 1             |                          |
+| 23 | 04/02/23 | Access Control 2             | Lab 6 & Assessment Due   |
 | 24 | 04/04/23 | Intrusion Detection          |                          |
 | 25 | 04/09/23 | AI and Security 1            | Lab 7 & Assessment Due   |
 | 26 | 04/11/23 | AI and Security 2            |                          |
-| 27 | 04/16/23 | Data Privacy 1               |                          |
+| 27 | 04/16/23 | Data Privacy 1               | Lab 8 & Assessment Due   |
 | 28 | 04/18/23 | Data Privacy 2               |                          |
 | 29 | 04/23/23 | Final Project Presentation 1 |                          |
 | 30 | 04/25/23 | Final Project Presentation 2 |                          |
