@@ -80,7 +80,7 @@ Final grade cutoff:
 | -  | 03/07/23 | SPRING BREAK                 |                          |
 | 17 | 03/12/23 | Pub Key Infra 1              | HW 2 Due                 |
 | 18 | 03/14/23 | Pub Key Infra 2              |                          |
-| 19 | 03/19/23 | Hash & Exam 2 Review         | Final Project Proposal   |
+| 19 | 03/19/23 | Exam 2 Review                | Final Project Proposal   |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
 | 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
 | 22 | 03/28/23 | Access Control 1             |                          |
