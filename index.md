@@ -23,6 +23,8 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 
 - TA: Yujia Wang (Email: yjw5427@psu.edu)
     - Office hours: TBD
+- IA: Anurag Vankadara (Email: vja5158@psu.edu)
+    - Office hours: TBD
  
 ## Course Materials
 - Recommended (not required): 
@@ -36,11 +38,11 @@ SRA 221 focuses on providing an understanding of the overview of information sec
  
 Grades will be computed based on the following factors:
 
-- Labs                 25%
-- Homework             25%
-- Exams                20%
-- Group Project        20% 
-- Quiz                 10% 
+- Labs                         25%
+- Homework & Lab Assessment    25%
+- Exams                        20%
+- Group Project                20% 
+- Quiz                         10% 
 
 Final grade cutoff:
 - A [93%, 100%]
@@ -59,9 +61,9 @@ Final grade cutoff:
 | #  | Date     | Topics                       | Due Dates                |
 |----|----------|------------------------------|--------------------------|
 | 1  | 01/09/23 | Course Introduction          |                          |
-| 2  | 01/11/23 | Security Problems            |                          |
-| 3  | 01/16/23 | Intro to Lab Environments    |                          |
-| 4  | 01/18/23 | Security Principles          | Lab 1 & Assessment Due   |
+| 2  | 01/11/23 | Intro to Lab Environments    |                          |
+| 3  | 01/16/23 | Security Problems            | Lab 1 & Assessment Due   |
+| 4  | 01/18/23 | Security Principles          |                          |
 | 5  | 01/23/23 | Web Security                 |                          |
 | 6  | 01/25/23 | Software Security            |                          |
 | 7  | 01/30/23 | Attack Types 1               | Lab 2 & Assessment Due   |
@@ -98,7 +100,7 @@ The instructor reserves the right to make any changes.
  
  
 ## Attendance
-- There is not a traditional "attendance". We will have occasional in-class quiz to check attendance. The intent for this is to assess your knowledge of the material and hold you accountable for attending.
+- There is not a traditional "attendance". We will have regular in-class quizes to check attendance. The intent for this is to assess your knowledge of the material and hold you accountable for attending.
 
 ## Group Project
 - Everyone in this class is expected to explore some special topics in information security beyond the content of this class (or an extension of what is covered in class).
