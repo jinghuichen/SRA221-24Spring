@@ -24,7 +24,7 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 - TA: Yujia Wang (Email: yjw5427@psu.edu)
     - Office hours: Mon 2-3pm Westgate 301
 - IA: Anurag Vankadara (Email: vja5158@psu.edu)
-    - Office hours: Tue 7-8pm [Zoom](https://psu.zoom.us/j/3958363220)
+    - Office hours: Tue 7-8pm Zoom [(https://psu.zoom.us/j/3958363220)](https://psu.zoom.us/j/3958363220)
  
 ## Course Materials
 - Recommended (not required): 
