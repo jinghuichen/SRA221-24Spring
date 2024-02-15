@@ -78,8 +78,8 @@ Final grade cutoff:
 | 16 | 02/29/23 | Pub Key Cryptography 2       |                          |
 | -  | 03/05/23 | SPRING BREAK                 |                          |
 | -  | 03/07/23 | SPRING BREAK                 |                          |
-| 17 | 03/12/23 | Pub Key Infra 1              | HW 2 Due                 |
-| 18 | 03/14/23 | Pub Key Infra 2              |                          |
+| 17 | 03/12/23 | Pub Key Infra 1              |                          |
+| 18 | 03/14/23 | Pub Key Infra 2              | HW 2 Due                 |
 | 19 | 03/19/23 | Exam 2 Review                | Final Project Proposal   |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
 | 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
