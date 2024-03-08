@@ -75,11 +75,11 @@ Final grade cutoff:
 | 13 | 02/20/23 | Cryptography Basics 3        |                          |
 | 14 | 02/22/23 | Symmetric Cryptography 1     | HW 1 Due                 |
 | 15 | 02/27/23 | Symmetric Cryptography 2     |                          |
-| 16 | 02/29/23 | Pub Key Cryptography         |                          |
+| 16 | 02/29/23 | Pub Key Cryptography 1       |                          |
 | -  | 03/05/23 | SPRING BREAK                 |                          |
 | -  | 03/07/23 | SPRING BREAK                 |                          |
-| 17 | 03/12/23 | Pub Key Infra 1              |                          |
-| 18 | 03/14/23 | Pub Key Infra 2              | HW 2 Due                 |
+| 17 | 03/12/23 | Pub Key Cryptography 2       |                          |
+| 18 | 03/14/23 | Pub Key Infra                | HW 2 Due                 |
 | 19 | 03/19/23 | Exam 2 Review                | Final Project Proposal   |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
 | 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
