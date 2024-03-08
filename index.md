@@ -69,7 +69,7 @@ Final grade cutoff:
 | 7  | 01/30/23 | Attack Types 1               |                          |
 | 8  | 02/01/23 | Attack Types 2               | Lab 3 & Assessment Due   |
 | 9  | 02/06/23 | Exam 1 Review                |                          |
-| 10 | 02/08/23 | Exam 1 (in-class)            |                          |
+| 10 | 02/08/23 | Exam 1                       |                          |
 | 11 | 02/13/23 | Cryptography Basics 1        | Lab 4 & Assessment Due   |
 | 12 | 02/15/23 | Cryptography Basics 2        |                          |
 | 13 | 02/20/23 | Cryptography Basics 3        |                          |
@@ -81,7 +81,7 @@ Final grade cutoff:
 | 17 | 03/12/23 | Pub Key Cryptography 2       |                          |
 | 18 | 03/14/23 | Pub Key Infra                | HW 2 Due                 |
 | 19 | 03/19/23 | Exam 2 Review                | Final Project Proposal   |
-| 20 | 03/21/23 | Exam 2 (in-class)            |                          |
+| 20 | 03/21/23 | Exam 2                       |                          |
 | 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
 | 22 | 03/28/23 | Access Control 1             |                          |
 | 23 | 04/02/23 | Access Control 2             | Lab 6 & Assessment Due   |
