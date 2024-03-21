@@ -82,14 +82,14 @@ Final grade cutoff:
 | 18 | 03/14/23 | Pub Key Infra                | HW 2 Due                 |
 | 19 | 03/19/23 | Exam 2 Review                | Final Project Proposal   |
 | 20 | 03/21/23 | Exam 2                       |                          |
-| 21 | 03/26/23 | Network Security             | Lab 5 & Assessment Due   |
-| 22 | 03/28/23 | Access Control 1             |                          |
-| 23 | 04/02/23 | Access Control 2             | Lab 6 & Assessment Due   |
-| 24 | 04/04/23 | Intrusion Detection          |                          |
-| 25 | 04/09/23 | AI and Security 1            | Lab 7 & Assessment Due   |
-| 26 | 04/11/23 | AI and Security 2            |                          |
-| 27 | 04/16/23 | Data Privacy 1               | Lab 8 & Assessment Due   |
-| 28 | 04/18/23 | Data Privacy 2               |                          |
+| 21 | 03/26/23 | Network Security             |                          |
+| 22 | 03/28/23 | Access Control 1             | Lab 5 & Assessment Due   |
+| 23 | 04/02/23 | Access Control 2             |                          |
+| 24 | 04/04/23 | Intrusion Detection          | Lab 6 & Assessment Due   |
+| 25 | 04/09/23 | AI and Security 1            |                          |
+| 26 | 04/11/23 | AI and Security 2            | Lab 7 & Assessment Due   |
+| 27 | 04/16/23 | Data Privacy 1               |                          |
+| 28 | 04/18/23 | Data Privacy 2               | Lab 8 & Assessment Due   |
 | 29 | 04/23/23 | Final Project Presentation 1 |                          |
 | 30 | 04/25/23 | Final Project Presentation 2 |                          |
 | -  | 04/30/23 |                              | Final Project Report Due |
